@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Schach_Ferien/1.0.0": {
+        "runtime": {
+          "Schach_Ferien.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Schach_Ferien/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
